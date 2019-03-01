@@ -36,6 +36,8 @@
         <module>sys-message</module>
         <!--日志系统-->
         <module>sys-log</module>
+        <!--api服务-->
+        <module>sys-api</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
